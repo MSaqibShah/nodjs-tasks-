@@ -27,7 +27,7 @@ Contributing:
 Contributions to this repository are highly encouraged. By resolving the existing issues, you can help improve the API implementation and provide valuable learning opportunities for others. Feel free to explore the open issues, submit bug fixes, implement new features, or suggest improvements. Together, we can create an educational and robust REST API for a Blog System using Node.js.
 
 License:
-This repository is open-source and available under the MIT License. You are free to use, modify, and distribute the code for personal or commercial purposes.
+This repository is open-source and available under the GNU General Public License (v3). You are free to use, modify, and distribute the code for personal or commercial purposes.
 
 Resources:
 
